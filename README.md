@@ -5,6 +5,7 @@
 We ran below shell command with from the directory of all the zipped books in order to unzip them:
 
     unzip '*.zip'
-
+    rm *.zip
+    
 
 
